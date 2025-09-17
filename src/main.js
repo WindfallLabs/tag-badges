@@ -1276,8 +1276,6 @@ class TagBadgesSettingTab extends PluginSettingTab {
         const { containerEl } = this;
         containerEl.empty();
 
-        containerEl.createEl('h2', { text: 'Tag Badges Settings' });
-
         this._createDefaultConfigSection(containerEl);
         this._createTagConfigsSection(containerEl);
     }
