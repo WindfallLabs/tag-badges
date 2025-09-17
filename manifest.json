@@ -1,9 +1,10 @@
 {
-	"id": "tag-badges",
-	"name": "Tag-Badges",
-	"author": "Garin Wally",
-	"description": "Render frontmatter tags as customizable badges.",
-	"isDesktopOnly": false,
-	"version": "1.0.0",
-	"minAppVersion": "1.9.12",
+    "id": "tag-badges",
+    "name": "Tag-Badges",
+    "author": "Garin Wally",
+    "description": "Render frontmatter tags as customizable badges.",
+    "isDesktopOnly": false,
+    "version": "1.0.0",
+    "minAppVersion": "1.9.12"
 }
+
