@@ -1,0 +1,8 @@
+{
+	"id": "obsidian-tag-badges",
+	"name": "Tag-Badges",
+	"version": "0.1.0",
+	"minAppVersion": "1.9.12",
+	"description": "Render frontmatter tags as customizable badges!",
+	"author": "Garin Wally <garwall101@gmail.com>"
+}
