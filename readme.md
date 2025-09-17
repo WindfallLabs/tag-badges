@@ -20,3 +20,6 @@ _**Pro Tip:** You might want to use a tag manager such as the Tag Wrangler plugi
 - **Customizable Badges**: Easily add, edit, and delete tag-badge styles! Personalize with [Lucide icons](https://lucide.dev/icons/), text and background colors, and optional aliases; and preview your changes live!
 - **Hierarchical Inheritance**: Automatically apply styles from parent tags to child tags (e.g., `#project/task` inherits from `#project`)
 - **Default Style**: All non-configured tags are styled with the default style
+
+
+![Demo](https://github.com/WindfallLabs/tag-badges/blob/main/resources/demo.gif)
