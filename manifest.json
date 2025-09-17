@@ -6,6 +6,4 @@
 	"isDesktopOnly": false,
 	"version": "1.0.0",
 	"minAppVersion": "1.9.12",
-	"js": "main.js"
 }
-
